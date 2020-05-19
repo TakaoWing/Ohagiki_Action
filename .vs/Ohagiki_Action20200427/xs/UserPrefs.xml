@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5B032182-A3B9-837A-1797-97948643F4F5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerShot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerShot.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/GameDirector.cs" Line="50" Column="10" />
+      <File FileName="Assets/Scripts/HPController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="26" Column="1" />
+      <File FileName="Assets/SceneController.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ohagiki_Action20200427" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerShot.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3505ebe9-966c-47b7-a550-2cfb0b954e79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
